@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Roboto');
+
+
+body{
+ background-color:#d4d4dc;
+ font-family: 'Roboto', sans-serif;
+}
+
+
+.navbar{
+    background-color:#feda6a;
+    font-weight: 900;
+    font-size: 18px;
+}
+.nav-link {
+    color: black;
+}  
+
+.nav-link:hover {
+    color:red;
+    text-decoration: underline;
+}
+
+.container{
+    width: 80%;
+}
+
+
+.img-fluid {
+  max-width: 50%;
+  height: auto;
+}
+
+.jumbotron{
+    background-color: #393f4d;
+   
+}
+
+.jumbotron h1 {
+   font-family: 'Lobster', cursive;
+    font-size: 4rem;
+     color:#1d1e22;
+    text-shadow: 1px 1px 1px #d4d4dc;
+}
+
+.btn {
+    background-color:#393f4d;
+    color: white;
+    border:1px solid black;
+}
+
+.btn:hover {
+    background-color:#feda6a;
+    color: black;
+    border:1px solid black;
+}
+
+
+label {
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+
+
